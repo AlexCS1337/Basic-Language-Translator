@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Basic Language Translator</string>
+    <string name="settings">settings</string>
+    <string name="translate">Translate</string>
+    <string name="clear">Clear</string>
+    <string name="instruction">Write text here</string>
+    <string name="translation_will_appear_here">Translation will appear here</string>
+    <string name="back">Back</string>
+    <string name="ui_language">UI Language</string>
+    <string name="input_language">Input Language</string>
+    <string name="target_language">Target Language</string>
+    <string name="apply">Apply</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string-array name="ui_language_selection">
+        <item>English</item>
+        <item>Japanese</item>
+    </string-array>
+    <string-array name="language_selection">
+        <item>English</item>
+        <item>Japanese</item>
+        <item>LeetSpeak</item>
+    </string-array>
+</resources>

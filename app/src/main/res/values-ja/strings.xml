@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">言語の翻訳プログラム</string>
+    <string name="settings">せってい</string>
+    <string name="translate">訳する</string>
+    <string name="clear">クリアー</string>
+    <string name="instruction"> テキストを入力</string>
+    <string name="translation_will_appear_here">翻訳はここです。</string>
+    <string name="back">戻る</string>
+    <string name="ui_language">UI言語</string>
+    <string name="input_language">言語を入力</string>
+    <string name="target_language">言語ターゲット</string>
+    <string name="apply">アプライ</string>
+    <string name="dark_mode">ダークモード</string>
+    <string-array name="ui_language_selection">
+        <item>英語</item>
+        <item>日本語</item>
+    </string-array>
+    <string-array name="language_selection">
+        <item>英語</item>
+        <item>日本語</item>
+        <item>LeetSpeak</item>
+    </string-array>
+</resources>
